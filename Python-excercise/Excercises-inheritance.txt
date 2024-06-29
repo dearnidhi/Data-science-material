@@ -1,0 +1,5 @@
+Q1. Complete the code by creating an empty class B that inherits the given class.
+Q2. Create three classes to show parent, child, and grandchild relationships.
+Q3. Create three classes, class A with the string “Hello ”, class B with the string “World”, and a class C with a method display() that returns a concatenated string “Hello World”.
+Q4. Create three classes A, B, and C. Class A with attribute num=20. Classes B and C should have the same properties as A and also should be empty. Create an instance of C and print the attribute num.
+Q5. What is the output of the following code?

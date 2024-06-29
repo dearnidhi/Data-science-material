@@ -1,0 +1,31 @@
+Introduction to Convolutional Neural Networks (CNN)
+What is a Convolutional Neural Network (CNN)?
+Why are CNNs preferred for image processing tasks?
+Can you explain the main differences between a CNN and a regular neural network?
+Convolutional Layers, Pooling Layers, and Fully Connected Layers
+What is the role of convolutional layers in a CNN?
+What is a filter or kernel in the context of convolutional layers?
+What do you understand by the term 'stride' in a convolutional layer?
+Can you explain what pooling layers do in a CNN?
+What is the difference between max pooling and average pooling?
+What is the purpose of fully connected layers in a CNN?
+Image Classification with CNN
+How does a CNN perform image classification?
+What is the softmax function, and how is it used in the output layer of a CNN?
+What are some common loss functions used in training CNNs for image classification?
+Transfer Learning and Pre-trained Models
+What is transfer learning in the context of CNNs?
+Can you name a few popular pre-trained models used for transfer learning?
+What are the benefits of using a pre-trained model over training a CNN from scratch?
+Introduction to Computer Vision Using OpenCV
+What is OpenCV, and why is it important in computer vision?
+Can you describe a basic use case of OpenCV in image processing?
+Image Preprocessing and Feature Extraction
+Why is image preprocessing important before feeding data into a CNN?
+What are some common image preprocessing techniques?
+What is feature extraction in the context of computer vision?
+Object Detection and Image Segmentation
+What is the difference between image classification and object detection?
+Can you explain what image segmentation is and how it differs from object detection?
+What are some common algorithms used for object detection?
+What are some popular techniques for image segmentation?
